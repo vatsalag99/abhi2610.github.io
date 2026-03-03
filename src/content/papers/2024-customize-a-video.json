@@ -4,23 +4,28 @@
   "authors": [
     "yixuan-ren",
     {
-      "name": "Yifei Zhou"
+      "name": "Yang Zhou",
+      "url": "https://yzhou359.github.io/"
     },
     {
-      "name": "Jinyu Yang"
+      "name": "Jimei Yang",
+      "url": "https://jimeiyang.github.io/"
     },
     {
-      "name": "Jing Shi"
+      "name": "Jing Shi",
+      "url": "https://jshi31.github.io/jingshi/"
     },
     {
-      "name": "Difan Liu"
+      "name": "Difan Liu",
+      "url": "https://difanliu.github.io/"
     },
     {
-      "name": "Fuxiao Liu",
-      "url": "https://fuxiaoliu.github.io/"
+      "name": "Feng Liu",
+      "url": "https://pages.cs.wisc.edu/~fliu/"
     },
     {
-      "name": "Mingi Kwon"
+      "name": "Mingi Kwon",
+      "url": "https://github.com/kwonminki"
     },
     "abhinav-shrivastava"
   ],
@@ -31,6 +36,6 @@
     "pdf": "https://arxiv.org/abs/2402.14780",
     "webpage": "https://customize-a-video.github.io/"
   },
-  "thumbnail": null,
+  "thumbnail": "images/thumbnail/customize-a-video.gif",
   "date": "2024-07"
 }
