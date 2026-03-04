@@ -15,11 +15,10 @@
     "oral"
   ],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/ohem_cvpr16.txt",
-    "pdf": "http://arxiv.org/pdf/1604.03540",
+    "pdf": "https://arxiv.org/abs/1604.03540",
     "code": "https://github.com/abhi2610/ohem",
     "video": "https://www.youtube.com/watch?v=fvXehzXgZ3U",
-    "poster": "https://www.cs.umd.edu/~abhinav/papers/posters/ohem.pdf",
+    "poster": "https://www.dropbox.com/scl/fi/mlh4j5z1t6dzo2t0wbney/ohem.pdf?rlkey=9e9pqnmaiu861biwu47v1oxhq&dl=1",
     "slides": "https://drive.google.com/uc?export=download&id=0B1bvF_UrhQBSSUtja0tDYkp0SDA"
   },
   "thumbnail": "images/ohem.png",

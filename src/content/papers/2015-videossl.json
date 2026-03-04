@@ -10,10 +10,9 @@
   "year": 2015,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/videossl_cvpr15.txt",
-    "pdf": "http://arxiv.org/pdf/1505.05769v1.pdf",
+    "pdf": "https://arxiv.org/abs/1505.05769",
     "webpage": "http://www.cs.cmu.edu/~imisra/projects/sslVideo2015/index.html",
-    "poster": "https://www.cs.umd.edu/~abhinav/papers/posters/video_ssl.pdf"
+    "poster": "https://www.dropbox.com/scl/fi/rn8r4m2bcl4z50uybhfbn/video_ssl.pdf?rlkey=fnn7l09zqgoudv5bfxl90hutv&dl=1"
   },
   "thumbnail": "images/watchlearn.png",
   "date": "2015-02"

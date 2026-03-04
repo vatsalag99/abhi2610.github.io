@@ -11,7 +11,6 @@
   "year": 2020,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/taha2020generic.txt",
     "pdf": "https://arxiv.org/abs/2007.09748",
     "code": "https://github.com/ahmdtaha/constrained_attention_filter",
     "webpage": "https://ahmdtaha.github.io/paper/eccv_ahmed_generic",

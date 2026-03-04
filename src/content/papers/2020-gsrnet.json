@@ -23,7 +23,6 @@
   "year": 2020,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/zhou2020generate.txt",
     "pdf": "https://arxiv.org/pdf/1811.09729.pdf",
     "code": "https://github.com/pengzhou1108/GSRNet"
   },

@@ -11,7 +11,6 @@
   "year": 2021,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/ghosh2021learning.txt",
     "pdf": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ghosh_Learning_Graphs_for_Knowledge_Transfer_With_Limited_Labels_CVPR_2021_paper.pdf",
     "webpage": "https://pallabig.github.io/LearningGraphsForGCN/",
     "video": "https://pallabig.github.io/LearningGraphsForGCN/5566_presentation_video.mp4",

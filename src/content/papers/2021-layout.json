@@ -19,7 +19,6 @@
   "year": 2021,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/gupta2020layouttransformer.txt",
     "pdf": "https://arxiv.org/abs/2006.14615",
     "webpage": "https://kampta.github.io/layout/",
     "code": "https://github.com/kampta/DeepLayout"

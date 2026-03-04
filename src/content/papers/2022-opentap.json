@@ -22,7 +22,6 @@
   "year": 2022,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/pham2022improving.txt",
     "pdf": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850199.pdf",
     "webpage": "https://vkhoi.github.io/TAP/",
     "code": "https://github.com/adobe-research/vaw_dataset"

@@ -19,7 +19,6 @@
   "year": 2022,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/he2022asloc.txt",
     "pdf": "https://arxiv.org/abs/2203.15187",
     "webpage": "https://boheumd.github.io/asm-loc/",
     "code": "https://github.com/boheumd/ASM-Loc"

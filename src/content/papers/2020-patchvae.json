@@ -10,7 +10,6 @@
   "year": 2020,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/gupta2020patchvae.txt",
     "pdf": "https://arxiv.org/abs/2004.03623",
     "code": "https://github.com/kampta/PatchVAE",
     "webpage": "https://kampta.github.io/patch-vae/",

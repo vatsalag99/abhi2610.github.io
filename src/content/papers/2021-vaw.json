@@ -22,7 +22,6 @@
   "year": 2021,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/pham2021learning.txt",
     "pdf": "http://arxiv.org/abs/2106.09707",
     "webpage": "https://vawdataset.com/",
     "code": "https://github.com/adobe-research/vaw_dataset",

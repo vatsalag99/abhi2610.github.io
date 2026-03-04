@@ -12,7 +12,6 @@
     "oral"
   ],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/taha2021knowledge.txt",
     "pdf": "https://arxiv.org/abs/2103.05152",
     "webpage": "https://ahmdtaha.github.io/paper/cvpr_ahmed_knowledge",
     "code": "https://github.com/ahmdtaha/knowledge_evolution",

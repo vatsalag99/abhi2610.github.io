@@ -11,7 +11,6 @@
   "year": 2022,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/wang2022neural.txt",
     "pdf": "https://arxiv.org/abs/2204.08453",
     "webpage": "https://hywang66.github.io/publication/neuralsfc/",
     "code": "https://github.com/hywang66/NeuralSFC",

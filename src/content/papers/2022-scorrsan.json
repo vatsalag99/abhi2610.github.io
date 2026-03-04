@@ -17,7 +17,6 @@
   "year": 2022,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/huang2022learning.txt",
     "pdf": "https://arxiv.org/abs/2208.06974",
     "webpage": "https://shuaiyihuang.github.io/publications/SCorrSAN/",
     "code": "https://github.com/shuaiyihuang/SCorrSAN"

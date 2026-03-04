@@ -21,7 +21,6 @@
   "year": 2022,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/yang2022burn.txt",
     "pdf": "https://arxiv.org/abs/2112.04345",
     "webpage": "https://www.loyo.me/projectpages/burnAfterReading/BurnAfterReading.html",
     "code": "https://github.com/salesforce/burn-after-reading"

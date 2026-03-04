@@ -22,7 +22,6 @@
   "year": 2021,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/yang2020deep.txt",
     "pdf": "https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Deep_Co-Training_With_Task_Decomposition_for_Semi-Supervised_Domain_Adaptation_ICCV_2021_paper.pdf",
     "code": "https://github.com/LoyoYang/DeCoTa"
   },

@@ -19,7 +19,6 @@
   "year": 2020,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/ghosh2020deep.txt",
     "pdf": "https://arxiv.org/abs/2001.07791"
   },
   "thumbnail": "images/depthcomplete.png",

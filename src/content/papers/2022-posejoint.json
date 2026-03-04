@@ -22,7 +22,6 @@
   "year": 2022,
   "tags": [],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/shah2022pose.txt",
     "pdf": "https://arxiv.org/abs/2010.08164",
     "video": "https://youtu.be/BqaOlF_LOMA",
     "code": "https://github.com/anshulbshah/PoseAction"

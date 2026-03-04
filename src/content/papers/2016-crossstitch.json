@@ -13,9 +13,8 @@
     "spotlight"
   ],
   "links": {
-    "bibtex": "https://www.cs.umd.edu/~abhinav/papers/bibtex/crossstitch_cvpr16.txt",
-    "pdf": "http://arxiv.org/pdf/1604.03539",
-    "poster": "https://www.cs.umd.edu/~abhinav/papers/posters/cross-stitch.pdf",
+    "pdf": "https://arxiv.org/abs/1604.03539",
+    "poster": "https://www.dropbox.com/scl/fi/903jr004334lezo6baf59/cross-stitch.pdf?rlkey=sfa789k2imgx24qswh670z9ik&dl=1",
     "slides": "https://drive.google.com/uc?export=download&id=0B1bvF_UrhQBSZWRDNGFMdzdiRk0"
   },
   "thumbnail": "images/multi-task_compressed.png",
