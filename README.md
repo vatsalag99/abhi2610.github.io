@@ -1,6 +1,6 @@
 # Abhinav Shrivastava — Personal Website
 
-Live preview: https://abhi2610.github.io
+https://abhinavsh.info
 
 ## For students
 
