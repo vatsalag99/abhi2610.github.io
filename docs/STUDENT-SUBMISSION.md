@@ -144,8 +144,14 @@ Use tags to highlight your paper. Common tags:
 2. Push to your fork
 3. Open a pull request against the `main` branch
 4. In the PR description, briefly note the paper title and venue
+5. **Wait for the green check ✅.** GitHub automatically runs a build check on your PR within ~1 minute. You'll see one of:
+   - 🟡 yellow dot — still running, wait a moment
+   - ✅ green check — your JSON is valid, ready for review
+   - ❌ red X — something is broken (usually a JSON syntax error like a trailing comma, or a missing/misspelled author ID). Click **Details** to see the exact error, push a fix to your branch, and the check will re-run automatically.
 
-Abhinav will review the JSON for accuracy and merge. The site auto-deploys after merge.
+**Please do not ping Abhinav until the check is green.** If you're stuck on a red X, the error message usually tells you the file and line to fix.
+
+Once green, Abhinav will review the content and merge. The site auto-deploys after merge.
 
 ---
 
