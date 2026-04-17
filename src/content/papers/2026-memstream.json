@@ -1,0 +1,17 @@
+{
+  "id": "2026-memstream",
+  "title": "Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory",
+  "authors": ["vatsal-agarwal", "saksham-suri", "matt-gwilliam", "pulkit-kumar", "abhinav-shrivastava"],
+  "venue": "arXiv",
+  "year": 2026,
+  "tags": [
+    "new"
+  ], 
+  "links": { 
+    "pdf": "https://arxiv.org/abs/2602.18434",
+    "webpage": "https://vatsalag99.github.io/memstream/",
+    "code": "https://github.com/vatsalag99/MemStream"
+  },
+  "thumbnail": "images/thumbnails/memstream_teaser.gif",
+  "date": "2026-02"
+}
